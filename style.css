@@ -80,6 +80,7 @@ main {
     padding: 5px;
 
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.418);
+    box-shadow: 6px 6px 13px 0px rgba(0, 0, 0, 0.445);
 }
 
 div.img {
