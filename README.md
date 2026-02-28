@@ -1,4 +1,19 @@
-# cordel
-codel criado em aula no Estudonauta
-Cria a página sozinho seguindo o módelo sugerido com o conhecimento adquirido até o momento (módulo 03-capítulo 19-aula 07.
-Depois criei outro módelo seguindo as intruções do capítulo 20 que estão em outro repositório (curso-Gustavo-Guanabara)
+# Projeto Cordel
+
+## 📌 Sobre o Projeto
+Página web desenvolvida como prática de HTML e CSS, com foco em estilização e organização visual.
+
+## 🎯 Objetivo
+Consolidar conhecimentos de estruturação HTML e aplicação de estilos com CSS.
+
+## 🚀 Tecnologias Utilizadas
+- HTML5
+- CSS3
+
+## 🛠 Conceitos Aplicados
+- Estruturação semântica
+- Estilização com CSS
+- Organização de layout
+
+## 👨‍💻 Autor
+André Nonaka Madeira
